@@ -178,11 +178,11 @@ Now continue from Step 3 again if you want to work on a new feature.
 
 
 
-<p >
+<p align="center">
   <img src="https://github.com/user-attachments/assets/d69aab85-87d5-4681-a285-8f596fed40e7" alt="Nexus Club Logo" width="80" height="80" style="border-radius: 50%;">
 </p>
 
-<p >
+<p align="center">
   <i>💻 Nexus Club | HITS</i>
 </p>
 
